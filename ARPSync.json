@@ -1,0 +1,26 @@
+[
+  {
+      "Author": "Lynie",
+      "Name": "ARP Sync",
+      "InternalName": "ARPSync",
+      "AssemblyVersion": "0.0.0.1",
+      "TestingAssemblyVersion": "0.0.0.1",
+      "Description": "A temporary sync client for Absolute Roleplay to synchronize your Penumbra and Glamourer mods.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/serifas/ARPClient",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 11,
+      "TestingDalamudApiLevel": 11,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/serifas/ARPClient/images/.png",
+      "Punchline": "Another sync cus... reasons!",
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "CanUnloadAsync": "True",
+      "DownloadLinkInstall": "https://github.com/serifas/ARPClient/latest.zip",
+      "DownloadLinkTesting": "https://github.com/serifas/ARPClient/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/serifas/ARPClient/latest.zip"
+    }
+]
